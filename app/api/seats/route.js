@@ -1,5 +1,8 @@
+
 import { NextResponse } from "next/server";
 import { PrismaClient } from "@prisma/client"; // Ensure correct path to your Prisma client
+
+
 
 const prisma = new PrismaClient();
 export async function GET() {
@@ -11,3 +14,6 @@ export async function GET() {
     return NextResponse.json({ error: "Internal Server Error" }, { status: 500 });
   }
 }
+
+
+export const dynamic = 'force-dynamic'
