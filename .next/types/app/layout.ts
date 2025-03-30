@@ -1,4 +1,4 @@
-// File: E:\imp files\upride\Nextjs-tailwind-js\app\layout.js
+// File: E:\imp files\workwise\Nextjs-tailwind-js\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
