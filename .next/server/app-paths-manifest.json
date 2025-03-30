@@ -1,9 +1,0 @@
-{
-  "/page": "app/page.js",
-  "/book/page": "app/book/page.js",
-  "/login/page": "app/login/page.js",
-  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/api/seats/route": "app/api/seats/route.js",
-  "/api/seats/book/route": "app/api/seats/book/route.js"
-}
